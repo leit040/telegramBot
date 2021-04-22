@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "name": "Alex Pereverzev",
+      "email": "leit040@gmail.com",
+      "homepage": "https://www.linkedin.com/in/oleksandr-pereverzev-07b234210/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Leit040\\TBot\\": "src/"
+      }
+  },
+  "name": "leit040/telegrambot",
+  "description": "Telegram bot",
+  "type": "project",
+
+  "require": {
+    "php": "^7.4|^8.0",
+    "guzzlehttp/guzzle": "^7.0.1",
+    "fzaninotto/faker": "^1.5",
+    "vlucas/phpdotenv": "^5.3"
+      }
+}
