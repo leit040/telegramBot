@@ -18,8 +18,6 @@
 
   "require": {
     "php": "^7.4|^8.0",
-    "guzzlehttp/guzzle": "^7.0.1",
-    "fzaninotto/faker": "^1.5",
     "vlucas/phpdotenv": "^5.3"
       }
 }
